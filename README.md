@@ -150,7 +150,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/citadeln?tab=repositories">
-          <"Others"/>
+          Others repositories
         </a>
       </td>
     </tr>
