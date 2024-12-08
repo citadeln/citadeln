@@ -1,6 +1,6 @@
 <!-- Приветствие -->
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/citadeln" target="_blank">Pervin</a>
+<h1 align="center">Hi there, I'm <a href="https://github.com/citadeln" target="_blank">Anastasiya</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">School 21 student from Surgut (Russia) <img src="https://usagif.com/wp-content/uploads/gifs/russian-flag-6.gif" alt="Russian flag" width="32" height="16"></h3>
 
