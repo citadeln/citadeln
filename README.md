@@ -51,9 +51,6 @@
 <p align="center">
   <h3 align="center">Languages and Tools</h3>
   <p>
-    <a href="https://golang.org/">
-      <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-    </a>
     <a href="https://www.cprogramming.com/">
       <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
     </a>
@@ -69,26 +66,11 @@
     <a href="https://code.visualstudio.com/">
       <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     </a>
-    <a href="https://www.qt.io/">
-      <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" />
-    </a>
-    <a href="https://cmake.org/">
-      <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
-    </a>
-    <a href="https://www.opengl.org/">
-      <img src="https://www.opengl.org/img/opengl_logo.jpg" width="80" height="27"/>
-    </a>
     <a href="https://www.linux.org/">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     </a>
     <a href="https://github.com/features/actions">
       <img src="https://img.shields.io/badge/CICD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-    </a>
-    <a href="https://grafana.com/">
-      <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
-    </a>
-    <a href="https://prometheus.io/">
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
     </a>
     <a href="https://www.docker.com/">
       <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
