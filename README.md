@@ -35,7 +35,7 @@
     <tr>
       <td>
         <a href="mailto:citadeln@mail.ru" style="text-decoration: none;">
-          <img src="https://freelogopng.com/images/all_img/1657906274logo-gmail-png.png" alt="Gmail logo" width="40" height="32">
+          <img src="https://i.ytimg.com/vi/AvvehSRktwg/maxresdefault.jpg" alt="Gmail logo" width="40" height="32">
         </a>
       </td>
       <td>
