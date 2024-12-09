@@ -1,10 +1,11 @@
 <!-- Приветствие -->
-<h1 align="center">Hi there, I'm <a href="https://github.com/citadeln" target="_blank">Anastasiya</a>
+<h1 align="center">Hello, I'm <a href="https://github.com/citadeln" target="_blank">Anastasiya</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">School 21 student from Surgut (Russia) <img src="https://usagif.com/wp-content/uploads/gifs/russian-flag-6.gif" alt="Russian flag" width="32" height="16"></h3>
+<h3 align="left">Developer C/C++ </h3>
+<h3 align="left">School 21 student from Surgut (Russia) </h3>
 
 <!-- Контакты -->
-<div align="center">
+<div align="left">
   <h3>Contact with me:</h3>
   <table>
     <tr>
