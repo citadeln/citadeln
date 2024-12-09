@@ -64,28 +64,6 @@
   </table>
 </p>
 
-<!-- Статистика -->
-<p align="center">
-  <h3 align="center">My GitHub Statistic</h3>
-  <table>
-    <tr>
-      <td align="center">
-          <img height="200" src="https://github-readme-stats.vercel.app/api?username=citadeln&theme=dark" />
-        </a>
-      </td>
-      <td align="center">
-          <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=citadeln&layout=compact&langs_count=8&card_width=440&theme=dark" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=citadeln&theme=dark&card_width=950" />
-      </td>
-    </tr>
-  </table>
-</p>
-
 <!-- Репозитории -->
 <p align="center">
   <h3 align="center">My Repositories</h3>
@@ -115,10 +93,31 @@
       </td> 
     </tr> 
     <tr> 
-      <td align=center">
-        Others repositories
-        <a href=https://github.com/citadeln?tab=repositories"></a> 
-      </td> 
+      <td align="center">
+        <a href="https://github.com/citadeln?tab=repositories">Others repositories</a>
+      </td>
     </tr> 
   </table> 
 </p> 
+
+<!-- Статистика -->
+<p align="center">
+  <h3 align="center">My GitHub Statistic</h3>
+  <table>
+    <tr>
+      <td align="center">
+          <img height="200" src="https://github-readme-stats.vercel.app/api?username=citadeln&theme=dark" />
+        </a>
+      </td>
+      <td align="center">
+          <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=citadeln&layout=compact&langs_count=8&card_width=440&theme=dark" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=citadeln&theme=dark&card_width=950" />
+      </td>
+    </tr>
+  </table>
+</p>
