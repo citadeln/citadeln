@@ -56,6 +56,7 @@
       <td><a href="https://www.cplusplus.com/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a></td>
       <td><a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a></td>
       <td><a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></a></td>
+      <td><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%2338B2E8.svg?style=for-the-badge&logo=python&logoColor=white" /></a></td>
       <td><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a></td>
       <td><a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a></td>
       <td><a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/CICD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /></a></td>
