@@ -10,6 +10,18 @@
   <table>
     <tr>
       <td>
+        <a href="mailto:citadeln@mail.ru" style="text-decoration: none;">
+          <img src="https://home.imgsmail.ru/whiteline/assets/logo/light/logo.svg?_1734039867715" alt="Gmail logo" width="82">
+        </a>
+      </td>
+      <td>
+        <a href="mailto:citadeln@mail.ru" style="text-decoration: none;">
+          <span style="font-size: 18px; vertical-align: middle;">citadeln@mail.ru</span>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://t.me/citadeln" target="_blank" style="text-decoration: none;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="Telegram logo" height="32">
         </a>
@@ -29,18 +41,6 @@
       <td>
         <a href="https://vk.com/citadeln" target="_blank" style="text-decoration: none;">
           <span style="font-size: 18px; vertical-align: middle;">citadeln</span>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="mailto:citadeln@mail.ru" style="text-decoration: none;">
-          <img src="https://home.imgsmail.ru/whiteline/assets/logo/light/logo.svg?_1734039867715" alt="Gmail logo" width="82">
-        </a>
-      </td>
-      <td>
-        <a href="mailto:citadeln@mail.ru" style="text-decoration: none;">
-          <span style="font-size: 18px; vertical-align: middle;">citadeln@mail.ru</span>
         </a>
       </td>
     </tr>
