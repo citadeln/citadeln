@@ -50,7 +50,7 @@
 <!-- Языки и инструменты -->
 <p align="center">
   <h3 align="center">Languages and Tools</h3>
-  <p>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <a href="https://www.cprogramming.com/">
       <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
     </a>
@@ -75,9 +75,8 @@
     <a href="https://www.docker.com/">
       <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     </a>
-  </p>
+  </div>
 </p>
-
 
 <!-- Статистика -->
 <p align="center">
