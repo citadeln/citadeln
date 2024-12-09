@@ -67,28 +67,28 @@
 <!-- Репозитории -->
 <p align="center">
   <h3 align="center">My Repositories</h3>
-  <table align=center">
-    <tr align=center">
-      <td align=center">
-        <a href=https://github.com/citadeln/C5_s21_decimal-1">
-          <img src=https://github-readme-stats.vercel.app/api/pin/?username=citadeln&repo=C5_s21_decimal-1&theme=dark />
+  <table align="center">
+    <tr align="center">
+      <td align="center">
+        <a href="https://github.com/citadeln/C5_s21_decimal-1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=citadeln&repo=C5_s21_decimal-1&theme=dark" />
         </a> 
       </td> 
-      <td align=center">
-        <a href=https://github.com/citadeln/C7_BrickGame_v1.0-1">
-          <img src=https://github-readme-stats.vercel.app/api/pin/?username=citadeln&repo=C7_BrickGame_v1.0-1&theme=dark />
+      <td align="center">
+        <a href="https://github.com/citadeln/C7_BrickGame_v1.0-1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=citadeln&repo=C7_BrickGame_v1.0-1&theme=dark" />
         </a> 
       </td> 
     </tr> 
     <tr> 
-      <td align=center">
-        <a href=https://github.com/citadeln/CPP1_s21_matrixplus-1">
-          <img src=https://github-readme-stats.vercel.app/api/pin/?username=citadeln&repo=CPP1_s21_matrixplus-1&theme=dark />
+      <td align="center">
+        <a href="https://github.com/citadeln/CPP1_s21_matrixplus-1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=citadeln&repo=CPP1_s21_matrixplus-1&theme=dark" />
         </a> 
       </td> 
-      <td align=center">
-        <a href=https://github.com/citadeln/SQL_pool">
-          <img src=https://github-readme-stats.vercel.app/api/pin/?username=citadeln&repo=SQL_pool&theme=dark />
+      <td align="center">
+        <a href="https://github.com/citadeln/SQL_pool">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=citadeln&repo=SQL_pool&theme=dark" />
         </a> 
       </td> 
     </tr> 
