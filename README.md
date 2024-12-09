@@ -1,5 +1,4 @@
 <!-- Приветствие -->
-
 <h1 align="center">Hi there, I'm <a href="https://github.com/citadeln" target="_blank">Anastasiya</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">School 21 student from Surgut (Russia) <img src="https://usagif.com/wp-content/uploads/gifs/russian-flag-6.gif" alt="Russian flag" width="32" height="16"></h3>
@@ -71,17 +70,17 @@
   <table>
     <tr>
       <td align="center">
-          <img height="200" src="https://github-readme-stats.vercel.app/api?username=citadeln&theme=algolia" />
+          <img height="200" src="https://github-readme-stats.vercel.app/api?username=citadeln&theme=dark" />
         </a>
       </td>
       <td align="center">
-          <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=citadeln&layout=compact&langs_count=8&card_width=440&theme=algolia" />
+          <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=citadeln&layout=compact&langs_count=8&card_width=440&theme=dark" />
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=citadeln&theme=algolia&card_width=950" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=citadeln&theme=dark&card_width=950" />
       </td>
     </tr>
   </table>
@@ -90,37 +89,36 @@
 <!-- Репозитории -->
 <p align="center">
   <h3 align="center">My Repositories</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/citadeln/C5_s21_decimal-1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=citadeln&repo=C5_s21_decimal-1&theme=algolia" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/citadeln/C7_BrickGame_v1.0-1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=citadeln&repo=C7_BrickGame_v1.0-1&theme=algolia" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/citadeln/CPP1_s21_matrixplus-1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=citadeln&repo=CPP1_s21_matrixplus-1&theme=algolia" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/citadeln/SQL_pool">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=citadeln&repo=SQL_pool&theme=algolia" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/citadeln?tab=repositories">
-          Others repositories
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
+  <table align=center">
+    <tr align=center">
+      <td align=center">
+        <a href=https://github.com/citadeln/C5_s21_decimal-1">
+          <img src=https://github-readme-stats.vercel.app/api/pin/?username=citadeln&repo=C5_s21_decimal-1&theme=dark />
+        </a> 
+      </td> 
+      <td align=center">
+        <a href=https://github.com/citadeln/C7_BrickGame_v1.0-1">
+          <img src=https://github-readme-stats.vercel.app/api/pin/?username=citadeln&repo=C7_BrickGame_v1.0-1&theme=dark />
+        </a> 
+      </td> 
+    </tr> 
+    <tr> 
+      <td align=center">
+        <a href=https://github.com/citadeln/CPP1_s21_matrixplus-1">
+          <img src=https://github-readme-stats.vercel.app/api/pin/?username=citadeln&repo=CPP1_s21_matrixplus-1&theme=dark />
+        </a> 
+      </td> 
+      <td align=center">
+        <a href=https://github.com/citadeln/SQL_pool">
+          <img src=https://github-readme-stats.vercel.app/api/pin/?username=citadeln&repo=SQL_pool&theme=dark />
+        </a> 
+      </td> 
+    </tr> 
+    <tr> 
+      <td align=center">
+        Others repositories
+        <a href=https://github.com/citadeln?tab=repositories"></a> 
+      </td> 
+    </tr> 
+  </table> 
+</p> 
