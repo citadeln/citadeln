@@ -80,16 +80,29 @@
           <img src=https://github-readme-stats.vercel.app/api/pin/?username=citadeln&repo=C7_BrickGame_v1.0-1&theme=dark />
         </a> 
       </td> 
-    </tr> 
+    </tr>
     <tr> 
+      <td align=center">
+        <a href="https://github.com/citadeln/CPP2_s21_containers-1">
+          <img src=https://github-readme-stats.vercel.app/api/pin/?username=citadeln&repo=CPP2_s21_containers-1&theme=dark />
+        </a> 
+      </td>
       <td align=center">
         <a href="https://github.com/citadeln/CPP1_s21_matrixplus-1">
           <img src=https://github-readme-stats.vercel.app/api/pin/?username=citadeln&repo=CPP1_s21_matrixplus-1&theme=dark />
         </a> 
       </td> 
+    </tr> 
+    <tr>
+    <tr> 
       <td align=center">
         <a href="https://github.com/citadeln/SQL_pool">
           <img src=https://github-readme-stats.vercel.app/api/pin/?username=citadeln&repo=SQL_pool&theme=dark />
+        </a> 
+      </td>
+      <td align=center">
+        <a href="https://github.com/citadeln/SimpleDocker-1">
+          <img src=https://github-readme-stats.vercel.app/api/pin/?username=citadeln&repo=SimpleDocker-1&theme=dark />
         </a> 
       </td> 
     </tr> 
