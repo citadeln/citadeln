@@ -4,7 +4,7 @@
 {
 <h3 align="left">Developer C/C++; </h3>
 <h3 align="left">Database Developer; </h3>
-<h3 align="left">School 21 student from Surgut (Russia) </h3>
+<h3 align="left">School 21 student from Surgut (Russia); </h3>
 };
 <!-- Контакты -->
 <div align="left">
