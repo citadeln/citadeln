@@ -1,9 +1,11 @@
 <!-- Приветствие -->
 <h1 align="center">Hello, I'm <a href="https://github.com/citadeln" target="_blank">Anastasiya</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="left">Developer C/C++ </h3>
+{
+<h3 align="left">Developer C/C++; </h3>
+<h3 align="left">Database Developer; </h3>
 <h3 align="left">School 21 student from Surgut (Russia) </h3>
-
+};
 <!-- Контакты -->
 <div align="left">
   <h3>Contact with me:</h3>
