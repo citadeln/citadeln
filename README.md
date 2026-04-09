@@ -15,7 +15,7 @@
 **Languages:** C, C++, Bash, SQL, Python (utilities)  
 **Systems:** Linux, POSIX, TCP/UDP sockets, multithreading  
 **Databases:** PostgreSQL  
-**DevOps & Tools:** Docker, docker-compose, Docker Swarm, Git, Gitflow, GitHub Actions (CI), Valgrind, cppcheck, gcovr, clang-format, Make, VS Code
+**DevOps & Tools:** Docker, docker-compose, Docker Swarm, Git, Gitflow, GitHub Actions (CI), Valgrind, cppcheck, gcovr, clang-format, Make, VS Code, Qt, Jenkins
 
 ---
 
