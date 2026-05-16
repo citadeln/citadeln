@@ -12,10 +12,10 @@
 
 ## Tech Stack
 
-**Languages:** C, C++, Bash, SQL, Python (utilities), Qt  
+**Languages:** C, C++, Bash, SQL, Python (utilities), Qt, Go  
 **Systems:** Linux, POSIX, TCP/UDP sockets, multithreading  
 **Databases:** PostgreSQL  
-**DevOps & Tools:** Docker, docker-compose, Docker Swarm, Git, Gitflow, GitHub Actions (CI), Valgrind, cppcheck, gcovr, clang-format, Make, VS Code, Jenkins
+**DevOps & Tools:** Docker, Docker Swarm, GitHub Actions (CI), Valgrind, cppcheck, gcovr, Jenkins, K8s, Grafana, Prometheus
 
 ---
 
